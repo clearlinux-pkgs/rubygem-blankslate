@@ -4,7 +4,7 @@
 #
 Name     : rubygem-blankslate
 Version  : 3.1.3
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/blankslate-3.1.3.gem
 Source0  : https://rubygems.org/downloads/blankslate-3.1.3.gem
 Summary  : No detailed summary available
